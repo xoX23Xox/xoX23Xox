@@ -13,4 +13,5 @@
 ![](https://api.visitorbadge.io/api/combined?path=xoX23Xox&label=Profile%20Views%20%5BDaily%20%2F%20Total%5D&labelColor=%23d9e3f0&countColor=%23555555&style=flat-square&labelStyle=upper)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xoX23Xox&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## 💰 You can help me by Donating
+![](https://images.app.goo.gl/BMPHoyAp11UoNita6)[url.com]
