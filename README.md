@@ -2,7 +2,7 @@
 ![Intro](https://raw.githubusercontent.com/403Code/403Code/main/picture/intro.svg) </br>
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegeam-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/xoX23Xox) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xxx) [![Twitter](https://img.shields.io/badge/Twitter-%23FF0000.svg?logo=Twitter&logoColor=white)](https://youtube.com/@xxx) 
+[![Telegram](https://img.shields.io/badge/Telegeam-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/xoX23Xox) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xxx) [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white)](https://youtube.com/@xxx) 
 
 # 💻 I've tried:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
